@@ -1,0 +1,5 @@
+Team programmer(s):
+Andrei "hexafraction" Akhmetov
+
+Using code graciously provided by:
+William Gardner of CHEER4FTC <http://cheer4ftc.blogspot.com>
